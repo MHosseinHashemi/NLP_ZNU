@@ -17,5 +17,5 @@ On the third assignment the goal was to :
 The last part of the assignment was :
  - deploying the Naive Baise classifier from scratch on the data set and Evaluating the Model using Accuracy Metric.
 
-My group mate on this project : 
-- Shervin Dadashzade (github.com/shervindadashzade) 
+Team members : 
+- Shervin Dadashzadeh (github.com/shervindadashzade) 
